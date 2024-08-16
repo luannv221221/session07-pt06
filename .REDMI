@@ -29,3 +29,22 @@ SAMSUNG extend PHONE
     goi(){
         xu ly chuc nang goi cua samsung
     }
+
+
+Chương trình quản lý nhân sự
+
+==>Sale,IT
+
+nhapThongTin
+
+hienThiThongTin
+
+tinhLuong
+
+Xây dựng Interface IEmploy
+    nhapThongTin()
+
+    hienThiThongTin()
+
+    tinhLuong()
+

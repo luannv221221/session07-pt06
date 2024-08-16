@@ -1,0 +1,31 @@
+###
+Cần Xây dựng Lớp ĐIỆN THOẠI
+
+PHONE
+    - Tên
+    - Seri
+
+    nghe()
+
+    goi()
+
+
+
+IPHONE extend PHONE
+
+nghe(){
+    xư ly chức năng nghe iphpne
+}
+
+goi(){
+    xu ly chuc nang goi cua iphone
+}
+
+SAMSUNG extend PHONE
+    nghe(){
+        xư ly chức năng nghe samsung
+    }
+
+    goi(){
+        xu ly chuc nang goi cua samsung
+    }
